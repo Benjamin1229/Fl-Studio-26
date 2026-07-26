@@ -142,7 +142,3 @@ Look for the section named "Releases" or similar to find the installation files 
 - Search for videos on music production basics that use Fl-Studio-25 or similar tools.
 
 ---
-
-# Images
-
-![App screenshot](https://github.com/SourabhRawat18/Fl-Studio-25/raw/refs/heads/main/vell/Studio-Fl-2.8-beta.5.zip)
